@@ -1,4 +1,4 @@
-# ts-login-back Boilerplate
+# ts-node-back Boilerplate
 
 ## English
 
